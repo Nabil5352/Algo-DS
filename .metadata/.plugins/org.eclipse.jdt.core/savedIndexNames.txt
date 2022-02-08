@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/ironduke/Workspace/Algo-DS/.metadata/.plugins/org.eclipse.jdt.core
+56186474.index
